@@ -1,18 +1,4 @@
-/*•======= >>> SUBSCRIBE WHATSAPP BOT <<<< ========•
-WELCOME.!! 
-Script ini Hasil Recode dari Script Ori Decode Denpa :
-✓ Denis ( Pembuat )  : 
-c/DcodeDenpa
-✓ Yuzzu Kamiyaka ( Recode 1 ) : 
-c/YuzzuKamiyaka
-✓ WHATSAPP BOT  ( Revode 2 ) : 
-c/CHANDRACHANNEL
-✓ Zedtz Higth7 ( Numpang )
-channel/UCr7JP9W9f-Bz3OMNDczIjbA
-Thanks To : RUIN FF ( Pembuat Fitur Jualan Diamond )
-channel/UCqkpkST3ElnoHNAwEcuRX3g
-
-NOTE : JANGAJ DI JUAL BELIKAN SCRIPT INI..!!!!
+/*•===
 */
 const
 	{
@@ -4642,7 +4628,7 @@ case 'ppcp':
 			pemuda.sendMessage(from, cowo, image, {caption: 'Ini Untuk »  *𝗖𝗼𝘄𝗼𝗸𝗻𝘆𝗮'})
        cewe = await getBuffer(anu.result.cewe_image)
 		    pll = `Ini Untuk » *𝗖𝗲𝘄𝗲𝗸𝗻𝘆𝗮*`
-   sendButImage(from, pll, `Project Pemuda © 2021`, cewe, [                      
+   sendButImage(from, pll, `x`, cewe, [                      
           {
             buttonId: `${prefix}ppcouple`,
             buttonText: {
@@ -5771,21 +5757,21 @@ TIME-INFO
 - Wit : ${timeWit}  
 - Hari : ${week} ${weton}
 - Tanggal : ${calender}`
-sendButLocation(from,  `${menu}`, `${uwu}© WHATSAPP BOT ${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}ping`,buttonText:{displayText:'PING'},type:1}, {buttonId:`${prefix}ofc`,buttonText:{displayText:'GRUP OFFICIAL👥'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
+sendButLocation(from,  `${menu}`, `${uwu}x${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}ping`,buttonText:{displayText:'PING'},type:1}, {buttonId:`${prefix}ofc`,buttonText:{displayText:'GRUP OFFICIAL👥'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
 case 'scriueupt2': case 'sjejc2': case 'escejeje2': case 'soujejjerce2':
  pemuda.sendMessage(from,`: "⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠄⠄⠄⠄⠄⠄⠄⠄⠙⢿⣿⣿⣿\n⣿⣿⣿⣿⣿⣿⡟⠁⠄⠄⠄⠄⣠⣤⣴⣶⣶⣶⣶⣤⡀⠈⠙⢿\n⣿⣿⣿⣿⣿⡟⠄⠄⠄⠄⠄⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠈\n⣿⣿⣿⣿⣿⠁⠄⠄⠄⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄\n⣿⣿⣿⣿⣿⡄⠄⠄⠄⠙⠻⠿⣿⣿⣿⣿⠿⠿⠛⠛⠻⣿⡄⠄\n⣿⣿⣿⣿⣿⡇⠄⠄⠁ ⭕ ⠄⢹⣿⡗⠄ ⭕ ⢄⡀⣾⢀⣿\n⣿⣿⣿⣿⣿⡇⠘⠄⠄⠄⢀⡀⠄⣿⣿⣷⣤⣤⣾⣿⣿⣿⣧⢸\n⣿⣿⣿⣿⣿⡇⠄⣰⣿⡿⠟⠃⠄⣿⣿⣿⣿⣿⡛⠿⢿⣿⣷⣾\n⣿⣿⣿⣿⣿⣿⡄⠈⠁⠄⠄⠄⠄⠻⠿⢛⣿⣿⠿⠂⠄⢹⢹⣿\n⣿⣿⣿⣿⣿⣿⣿⡐⠐⠄⠄⣠⣀⣀⣚⣯⣵⣶⠆⣰⠄⠞⣾⣿\n⣿⣿⣿⣿⣿⣿⣿⣷⡄⠄⠄⠈⠛⠿⠿⠿⣻⡏⢠⣿⣎⣾⣿⣿\n⣿⣿⣿⣿⣿⣿⡿⠟⠛⠄⠄⠄⠄⠙⣛⣿⣿⣵⣿⡿⢹⡟⣿⣿\n⣿⠿⠿⠋⠉⠄⠄⠄⠄⠄⠄⠄⣀⣠⣾⣿⣿⣿⡟⠁⠹⡇⣸⣿\n⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠙⠿⠿⠛⠋⠄⣸⣦⣠⣿⣿   \
 
 
-Ciee cari Script Gratisan :v, Tuh ngab download diatas jangan Lupa Follow Mastah Denis Juga :
+Ciee cari Script Gratisan :v, Tuh ngab :
 
-• https://github.com/dcode-denpa/bitch-boot
-• c/DcodeDenpa
-`, text, { thumbnail: dfrply, sendEphemeral: true, quoted: fvid, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲 SCRIPT DISNI📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/script.jpg'),sourceUrl:"https://youtu.be/x-O0WHkv3uc"}}} )
+• https://github.com/github/github
+• c/x
+`, text, { thumbnail: dfrply, sendEphemeral: true, quoted: fvid, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲 SCRIPT DISNI📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/script.jpg'),sourceUrl:"https://youtu.be"}}} )
 
 		break
 case '𝙋𝙖𝙧𝙩𝙣𝙚𝙧𝙗𝙤𝙩':
-		pemuda.sendMessage(from, `*Partner BOT Nabila*\n\n- Bot Chandra :\nhttps://wa.me/17155448800?text=.menu\nThanks Udah Makek Bot ini😉`, text, { thumbnail: dfrply, sendEphemeral: true, quoted: fvid, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲 SCRIPT DISNI📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/script.jpg'),sourceUrl:"https://youtu.be/x-O0WHkv3uc"}}})
+		pemuda.sendMessage(from, `*Partner BOT*\n\n- Bot Chandra :\nhttps://wa.me/0?text=.menu\nThanks Udah Makek Bot ini😉`, text, { thumbnail: dfrply, sendEphemeral: true, quoted: fvid, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲 SCRIPT DISNI📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/script.jpg'),sourceUrl:"https://youtu.be"}}})
 		break
 case 'scrheheipt': case 'shehec': case 'ejejsce': case 'sohejurce':
 if (!isGroup) return reply('Script sedang perbaikan. Ketik .script2')
@@ -5800,12 +5786,12 @@ pemuda.sendMessage(from,`: "⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠄⠄⠄⠄⠄⠄�
 Ciee cari Script Gratisan :v, Tuh ngab download diatas jangan Lupa Follow Mastah Denis Juga :
 
 Script Bot ${NamaBot} - Recode :
-• channel/UCr7JP9W9f-Bz3OMNDczIjbA
+• x
 
 Script Base punya :
-• https://github.com/dcode-denpa/bitch-boot
-• c/DcodeDenpa
-`, text, { thumbnail: dfrply , sendEphemeral: true,contextInfo: { mentionedJid: mem,forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲 SCRIPT DISNI📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/script.jpg'),sourceUrl:"https://youtu.be/x-O0WHkv3uc"}}, quoted: fvid})
+• https://github.com/github/github.git
+• c/x
+`, text, { thumbnail: dfrply , sendEphemeral: true,contextInfo: { mentionedJid: mem,forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲 SCRIPT DISNI📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/script.jpg'),sourceUrl:"https://youtu.be"}}, quoted: fvid})
 
 		break
 case "report":
@@ -5929,7 +5915,7 @@ pemuda.sendMessage(from, {
 ]
 const btnskuy = {
     contentText: `${anu}`,
-    footerText: '*_WHATSAPP BOT_*',
+    footerText: 'x',
     buttons: buttonown,
     headerType: 1
 }
@@ -5940,11 +5926,11 @@ break
 		pemuda.sendMessage(from, { text: "Hai kak Nih Instagram Pemilik Bot, Jangan Lupa Follow yak😉\n\n-", matchedText: '-', description: "", title: "KLIK UNTUK FOLLOW", jpegThumbnail: ofrply }, 'extendedTextMessage', { detectLinks: true, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
 case 'youtubeinfhsho':
-		pemuda.sendMessage(from, { text: "Hai kak Nih Youtube Pemilik Bot, Jangan Lupa Subcribe yak😉\n\nchannel/UCr7JP9W9f-Bz3OMNDczIjbA", matchedText: 'channel/UCr7JP9W9f-Bz3OMNDczIjbA', description: "", title: "KLIK UNTUK SUBCRIBE", jpegThumbnail: ofrply }, 'extendedTextMessage', { detectLinks: true, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		pemuda.sendMessage(from, { text: "Hai kak Nih Youtube Pemilik Bot, Jangan Lupa Subcribe yak😉\n\n.", matchedText: '.', description: "", title: "KLIK UNTUK SUBCRIBE", jpegThumbnail: ofrply }, 'extendedTextMessage', { detectLinks: true, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
 		
 case 'partnerywhwhbot':
-		pemuda.sendMessage(from, { text: "*Partner BOT Nabila*\n\n- Bot Chandra :\nhttps://wa.me/17155448800?text=.menu\nThanks Udah Makek Bot ini😉", matchedText: 'https://youtu.be/x-O0WHkv3uc', description: "", title: "Yang klik Anak Haram", jpegThumbnail: ofrply }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
+		pemuda.sendMessage(from, { text: "*Partner BOT Nabila*\n\n- Bot :\nhttps://wa.me/0?text=.menu\nThanks Udah Makek Bot ini😉", matchedText: 'https://youtu.be', description: "", title: "Yang klik Anak Haram", jpegThumbnail: ofrply }, 'extendedTextMessage', { detectLinks: false, contextInfo: { forwardingScore: 508, isForwarded: true}, quoted: finv})
 		break
 case 'speed':
                case 'ping':
@@ -6087,11 +6073,11 @@ sendButLocation(from, `${menu}`, `${uwu}Kalau sudah Beli Wajib Konfirmasi, Ketik
 break
 case 'pemhshbayaran' :
   pemuda.sendMessage(from, `Pembayaran Melalui :
-  *Gopay* : 088227606701
-  *Dana* : 088227606701
+  *Gopay* : 
+  *Dana* : 
   *LinkAja * : -
   *Bank Transfer* : BRI - Nomor Rekening
-*Pulsa* :\nTelkomsel : 088227606701
+*Pulsa* :\nTelkomsel : 
 
 _Note : Semua Jenis Transasi harap konfirmasi ke Penjual, Pilih Button menu TAWAR untuk Mulai Bertransaksi_`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Klik ini untuk Konfirmasi Pembayaran",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/pemuda.jpg'),sourceUrl:"https://wa.me/17155448800?text=Bang%20Mau%20Konfirmasi%20Pembayaran,%20Otw%20Kirim%20Bukti%20Yahh.."}}})
   break
