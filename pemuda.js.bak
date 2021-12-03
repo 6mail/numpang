@@ -1,16 +1,6 @@
-/*•======= >>> SUBSCRIBE PEMUDA TEKNOLOGI <<<< ========•
+/*•======= >>> citacitata <<<< ========•
 WELCOME.!! 
-Script ini Hasil Recode dari Script Ori Decode Denpa :
-✓ Denis ( Pembuat )  : 
-https://youtube.com/c/DcodeDenpa
-✓ Yuzzu Kamiyaka ( Recode 1 ) : 
-https://youtube.com/c/YuzzuKamiyaka
-✓ Pemuda Teknologi  ( Revode 2 ) : 
-https://youtube.com/c/CHANDRACHANNEL
-✓ Zedtz Higth7 ( Numpang )
-https://youtube.com/channel/UCr7JP9W9f-Bz3OMNDczIjbA
-Thanks To : RUIN FF ( Pembuat Fitur Jualan Diamond )
-https://youtube.com/channel/UCqkpkST3ElnoHNAwEcuRX3g
+
 
 NOTE : JANGAJ DI JUAL BELIKAN SCRIPT INI..!!!!
 */
@@ -146,9 +136,9 @@ NamaOwner = settings.NamaOwner
 NamaBot = settings.NamaBot
 multi = true
 nopref = false
-Nogpy = 0895606059646
+Nogpy = 0
 Noovo = 0
-Nodana = 0895606059646
+Nodana = 0
 /////Switch \\\\\
 let bugc = true
 
@@ -213,13 +203,13 @@ const cekafk = (_dir) => {
     }, 1000)
 }
 		const ovo = (teks) => {
-				pemuda.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲 QRCODE OVO 📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/pemuda.jpg'),sourceUrl:"https://bit.ly/ScanDisini"}}})
+				pemuda.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/pemuda.jpg'),sourceUrl:"https://bit.ly/IsmailKurama"}}})
 		}
 		const dana = (teks) => {
-				pemuda.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲 QRCODE DANA 📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/pemuda.jpg'),sourceUrl:"https://bit.ly/ScanDisini"}}})
+				pemuda.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/pemuda.jpg'),sourceUrl:"https://bit.ly/IsmailKurama"}}})
 		}
 		const gopay = (teks) => {
-				pemuda.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲 QRCODE GOPAY 📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/pemuda.jpg'),sourceUrl:"https://bit.ly/ScanDisini"}}})
+				pemuda.sendMessage(from, teks, text, { thumbnail: dfrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "📲",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/pemuda.jpg'),sourceUrl:"https://bit.ly/IsmailKurama"}}})
 		}
 		const sendMess = (hehe, teks) => {
 			pemuda.sendMessage(hehe, teks, text, { quoted: tok, contextInfo: { forwardingScore: 508, isForwarded: true}})
@@ -1098,7 +1088,7 @@ pemuda.updatePresence(from, Presence.recording)
        stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
 tescok = `${menunya(prefix)}`
-Sendbutdocument(from, tescok, "𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘*", fs.readFileSync('./media/Zextz Higth.pdf'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./media/image/thumbnaildokumen.jpg'), filename:`Zextz Higth.pdf`, pageCount: 9999999 }, [{buttonId:`!000`,buttonText:{displayText:'Hai‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n\nSemuanya aku mau Jujur Kalau aku itu Gay dan Lagi Pengen Sama Cowok berotot untuk jadi Pacarku, yang Berminat Bisa Chat aku yahh 😋'},type:1}], {quoted:fvid, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} - ${pushname}\nDownload Script`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/hiO8DkJzJCA`}}})
+Sendbutdocument(from, tescok, "*✘*", fs.readFileSync('./media/logo.pdf'), {mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./media/image/thumbnaildokumen.jpg'), filename:`logo.pdf`, pageCount: 9999999 }, [{buttonId:`!000`,buttonText:{displayText:'Hai‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎\n\n 😋'},type:1}], {quoted:fvid, contextInfo: { mentionedJid: [dtod,otod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} - ${pushname}\nDownload Script`,mediaType:"2",thumbnail:ofrply,mediaUrl:`https://youtu.be/34x5bBpUsCc`}}})
 break
 case 'menu':
 case 'help':
@@ -1107,7 +1097,7 @@ stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
  listMsg = {
  title : `Hai kak ${pushname}👋🏻`,
  buttonText: '⎙ MENU DISNI',
- footerText: '𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘',
+ footerText: '✘',
  description: `╭─⬣ 「 User Info 」 ⬣
 │✇ Status : ${isOwner ? 'Owner' : 'User'}
 │✇ Nama :pushname
@@ -1117,7 +1107,7 @@ stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
 Silahkan pilih menu disini`,
  sections: [
                      {
-                      "title": `𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘    ${jmn} - ${week} ${weton} - ${calender}`,
+                      "title": `✘    ${jmn} - ${week} ${weton} - ${calender}`,
  rows: [
                           {
                               "title": "𝙄𝙣𝙛𝙤",
@@ -1810,7 +1800,7 @@ break
 case 'sewa1':
  listMsg = {
  buttonText: 'KLIK DISINI',
- footerText: '𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘ 2021*',
+ footerText: '✘',
  description: `*LIST SEWA BOT*\n _Hay @${stod.split('@')[0]}_ Ini adalah list sewa bot silahkan pilih`,
  sections: [
                      {
@@ -1967,7 +1957,7 @@ _CHAT : wa.me/${otod.split('@')[0]}_
 katalog(menu)
 listMsg = {
  buttonText: 'NOMOR',
- footerText: '𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘ 2021*',
+ footerText: '✘',
  description: `*Hai ${pushname} 🎟️* \n\nsilahkan tekan "NOMOR" untuk melihat nomer ovo dan jangan lupa sertakan bukti pembayaran dan kirim ke OWNER`,
  sections: [
                      {
@@ -2007,7 +1997,7 @@ _CHAT : wa.me/${otod.split('@')[0]}_
 katalog(menu)
 listMsg = {
  buttonText: 'NOMOR',
- footerText: '𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘ 2021*',
+ footerText: '✘',
  description: `*Hai ${pushname} 🎟️* \n\nsilahkan tekan "NOMOR" untuk melihat nomer dana dan jangan lupa sertakan bukti pembayaran dan kirim ke OWNER`,
  sections: [
                      {
@@ -2047,7 +2037,7 @@ _CHAT : wa.me/${otod.split('@')[0]}_
 katalog(menu)
 listMsg = {
  buttonText: 'NOMOR',
- footerText: '𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘ 2021*',
+ footerText: '✘',
  description: `*Hai ${pushname} 🎟️* \n\nsilahkan tekan "NOMOR" untuk melihat nomer gopay dan jangan lupa sertakan bukti pembayaran dan kirim ke OWNER`,
  sections: [
                      {
@@ -2066,7 +2056,7 @@ break
 case '👍':
 listMsg = {
  buttonText: 'OWNER 👨‍💻',
- footerText: '𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘ 2021*',
+ footerText: '✘',
  description: `*Hai ${pushname}* \n\nsilahkan tekan "OWNER" untuk menuju ke nomer owner`,
  sections: [
                      {
@@ -2085,7 +2075,7 @@ break
 case 'gk':
 listMsg = {
  buttonText: 'MULAI',
- footerText: '𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘ 2021*',
+ footerText: '✘',
  description: `Emm y udah lah mending main game aja`,
  sections: [
                      {
@@ -5328,7 +5318,7 @@ break
  case 'asupan':
  listMsg = {
  buttonText: 'LIST ASUPAN',
- footerText: '𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘',
+ footerText: '✘',
  description: `Hai kak @${sender.split('@')[0]}, Silahkan pilih menu asupannya disini, Gunakan Dengan Bijak :v`,
  sections: [
                      {
@@ -5946,7 +5936,7 @@ pemuda.sendMessage(from, {
 ]
 const btnskuy = {
     contentText: `${anu}`,
-    footerText: '*_𝐙𝐞𝐱𝐭𝐳 °𝐇𝐢𝐠𝐡𝟕 ✘_*',
+    footerText: '✘',
     buttons: buttonown,
     headerType: 1
 }
@@ -6104,13 +6094,13 @@ sendButLocation(from, `${menu}`, `${uwu}Kalau sudah Beli Wajib Konfirmasi, Ketik
 break
 case 'pembayaran' :
   pemuda.sendMessage(from, `Pembayaran Melalui :
-  *Gopay* : 0895606059646
-  *Dana* : 0895606059646
+  *Gopay* : 0
+  *Dana* : 0
   *LinkAja * : -
   *Bank Transfer* : BRI - Nomor Rekening
-*Pulsa* :\nTelkomsel : 0895606059646
+*Pulsa* :\nTelkomsel : 123
 
-_Note : Semua Jenis Transasi harap konfirmasi ke Penjual, Pilih Button menu TAWAR untuk Mulai Bertransaksi_`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Klik ini untuk Konfirmasi Pembayaran",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/pemuda.jpg'),sourceUrl:"https://wa.me/62895606059646?text=Bang%20Mau%20Konfirmasi%20Pembayaran,%20Otw%20Kirim%20Bukti%20Yahh.."}}})
+_Note : Semua Jenis Transasi harap konfirmasi ke Penjual, Pilih Button menu TAWAR untuk Mulai Bertransaksi_`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Klik ini untuk Konfirmasi Pembayaran",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./media/image/pemuda.jpg'),sourceUrl:"https://wa.me/6283805279906?text=Bang%20Mau%20Konfirmasi%20Pembayaran,%20Otw%20Kirim%20Bukti%20Yahh.."}}})
   break
 case 'transaksi' :
 let ini_kontak = []
