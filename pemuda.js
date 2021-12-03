@@ -132,9 +132,9 @@ NamaOwner = settings.NamaOwner
 NamaBot = settings.NamaBot
 multi = true
 nopref = true
-Nogpy = 088227606701
+Nogpy = 0
 Noovo = 0
-Nodana = 088227606701
+Nodana = 0
 /////Switch \\\\\
 let bugc = true
 
